@@ -1,6 +1,6 @@
 this is just a demo admin page that i created for just practice 
 
-[] - this is the deployed link you can check it open[https://preeminent-scone-91d125.netlify.app]
+## - this is the deployed link you can check it https://preeminent-scone-91d125.netlify.app
 
 ### `npm start`
 
