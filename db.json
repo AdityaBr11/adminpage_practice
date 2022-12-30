@@ -1,0 +1,82 @@
+{
+  "Allproducts": [
+    {
+      "title": "Cake",
+      "url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "title": "Egg",
+      "url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "40",
+      "id": 2
+    },
+    {
+      "title": "Pizza",
+      "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "199",
+      "id": 3
+    },
+    {
+      "title": "Maggie",
+      "url": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "60",
+      "id": 4
+    },
+    {
+      "title": "Mixture",
+      "url": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "160",
+      "id": 5
+    },
+    {
+      "title": "Burger",
+      "url": "https://images.unsplash.com/photo-1481070555726-e2fe8357725c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "90",
+      "id": 6
+    },
+    {
+      "title": "Ice Cream",
+      "url": "https://images.unsplash.com/photo-1488900128323-21503983a07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "65",
+      "id": 7
+    },
+    {
+      "title": "Noodles",
+      "url": "https://images.unsplash.com/photo-1600803907087-f56d462fd26b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzV8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "88",
+      "id": 8
+    },
+    {
+      "title": "Bread",
+      "url": "https://images.unsplash.com/photo-1559054663-e8d23213f55c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODl8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "90",
+      "id": 9
+    },
+    {
+      "title": "Drink",
+      "url": "https://images.unsplash.com/photo-1560512823-829485b8bf24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE3fHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "30",
+      "id": 10
+    },
+    {
+      "title": "Water",
+      "url": "https://images.unsplash.com/photo-1437418747212-8d9709afab22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTMxfHxmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "40",
+      "id": 11
+    },
+    {
+      "title": "Chillies",
+      "url": "https://images.unsplash.com/photo-1621317758612-3958e0f07c49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fHZlZ2V0YXJpYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "10",
+      "id": 12
+    },
+    {
+      "title": "Paneer Pizza",
+      "url": "https://images.unsplash.com/photo-1665033628673-7de125eb6b12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHBhbmVlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "399",
+      "id": 13
+    }
+  ]
+}
