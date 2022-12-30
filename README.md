@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+this is just a demo admin page that i created for just practice 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+[] - this is the deployed link you can check it open[https://preeminent-scone-91d125.netlify.app]
 
 ### `npm start`
 
